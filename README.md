@@ -5,7 +5,7 @@ Computer Science graduate (Lahore Garrison University) specializing in **AI/ML e
 - 🔭 Built **NavexaAI** — a voice-first AI driving assistant with custom wake-word detection, LLM-powered conversation, and real-time speech pipelines.
 - 🧠 Actively working on deep learning research: vision transformers (ViT, Swin), explainable AI (Grad-CAM, LIME), and GAN-based data augmentation for medical imaging.
 - 🤖 Exploring backend AI engineering — LLM integration, RAG pipelines, and real-time inference systems.
-- 🎓 BSCS graduate, previously a CS/Additional Mathematics tutor for grades 9–12.
+- 🎓 BSCS graduate, previously a CS/Additional Mathematics tutor for grades 9–12, O/A LEVELS.
 - 📫 Reach me at **hamzaasif0726@gmail.com**
 
 ---
